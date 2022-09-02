@@ -7,8 +7,9 @@
     <title>Power Rangers Library</title>
 </head>
 <body>
-    <div >
-        <input id="Search"type="text" placeholder="Power Rangers Library">
+    <div class="header">
+        <p id="headertext">  Power Rangers <input id="Search"type="text" placeholder="Power Rangers Library"></p>
+        
     </div>
     <div class="mid">
         <p class="recbook">Recently Viewed</p>
@@ -28,14 +29,29 @@
       background-size: cover;
       z-index: 5;
     }
+    .header
+    {
+        height: 60px;
+        width: 90vw;
+        background-color: red;
+        margin-left: 5vw;
+        border-radius: 50px;
+    }
+    #headertext
+    {
+        margin-left: 40px;
+        font-size: x-large;
+    }
     #Search
     {
         align-self: center;
-        width:90%;
+        width:80%;
         border-radius: 50px;
         height:40px;
-        margin-left: 5vw;
-        margin-top: 15px;
+        margin-left: 10px;
+        margin-top: 8px;
+        background-color: rgba(86, 87, 87, 0.5);
+        color: rgb(255, 0, 0);
     }
     .recbook 
     {
