@@ -7,11 +7,13 @@
     <title>Power Rangers Library</title>
 </head>
 <body>
-    <div class="header">
-        <p id="welcome">Hello!</p>
+    <div >
+        <input id="Search"type="text" placeholder="Power Rangers Library">
     </div>
     <div class="mid">
-
+        <p class="recbook">Recently Viewed</p>
+        <div id="bookview">
+        </div>
     </div>
 
     
@@ -21,19 +23,34 @@
 
 </script>
 <style>
-    .header
-    {
-        background: rgb(201, 7, 7);
-        height: 50px;
-        width: 90vw;
-        text-align: left;
-        align-self: center;
-        margin-left: 5vw;
-        border-radius: 25px;
+    body{
+      background-image: url(https://h24-original.s3.amazonaws.com/229042/24635709-BdgEE.jpg);
+      background-size: cover;
+      z-index: 5;
     }
-    #welcome
+    #Search
     {
-        padding: 13px;
-        font-size: medium;
+        align-self: center;
+        width:90%;
+        border-radius: 50px;
+        height:40px;
+        margin-left: 5vw;
+        margin-top: 15px;
+    }
+    .recbook 
+    {
+        font-size: xx-large;
+        text-align: center;
+        color: rgb(68, 255, 0);
+    }
+    #bookview
+    {
+        color: rgb(242, 255, 0);
+        height: 400px;
+        width: 70vw;
+        margin-left: 15vw;
+        align-self: center;
+        z-index: 10;
+        background-color:rgba(71, 71, 71, 0.5)
     }
 </style>
