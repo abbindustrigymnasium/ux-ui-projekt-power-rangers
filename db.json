@@ -1,0 +1,3422 @@
+{
+  "books": [
+    {
+      "id": 140,
+      "title": "Svenska timmar - litteraturen",
+      "author": "Svante Skoglund",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9140673375/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "978-91-40-67337-4",
+      "copies": 11
+    },
+    {
+      "id": 141,
+      "title": "Read & Catch Up Update  [Kombinerat material] :  engelska A",
+      "author": "Någon, nånstans, nån gång.",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9144009135/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "sweeng",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "978-91-44-00913-1",
+      "copies": 11
+    },
+    {
+      "id": 142,
+      "title": "Iliaden",
+      "author": "Per Holmström",
+      "lang": "Svenska",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "91-7119-909-8",
+      "copies": 11
+    },
+    {
+      "id": 143,
+      "title": "Wild swans :  three daughters of China",
+      "author": "Jung Chang",
+      "lang": "Engelska",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "0-00-654599-8",
+      "copies": 14
+    },
+    {
+      "id": 144,
+      "title": "Söka svar :  religionskunskap kurs A & B",
+      "author": "Malin Mattsson Flennegård, Leif Eriksson, Uriel Hedengren",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9147092556/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "91-47-09255-6",
+      "copies": 2
+    },
+    {
+      "id": 145,
+      "title": "Decamerone",
+      "author": "Giovanni Boccaccio",
+      "lang": "Svenska",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "91-44-61131-5",
+      "copies": 7
+    },
+    {
+      "id": 146,
+      "title": "Teman till historien",
+      "author": "Bengt Åke Häger  1,  Före 1789",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "91-44-20221-0",
+      "copies": 9
+    },
+    {
+      "id": 147,
+      "title": "Fröken Julie ; Ett drömspel",
+      "author": "August Strindberg",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "91-1-921362-X",
+      "copies": 1
+    },
+    {
+      "id": 148,
+      "title": "Spela roll :  samhällskunskap 50 p",
+      "author": "Fredrik Harstad, Sandra Heaver och Jens Öberg",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9140673138/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "91-40-67313-8",
+      "copies": 11
+    },
+    {
+      "id": 149,
+      "title": "Källan :  svenska för gymnasieskolan, kurs A och B.  Litteraturhistoria",
+      "author": "Anita Kretz",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "91-622-1581-7",
+      "copies": 2
+    },
+    {
+      "id": 150,
+      "title": "Nya Alla tiders historia",
+      "author": "Bergström, Löwgren, Almgren",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "91-40-61289-9",
+      "copies": 13
+    },
+    {
+      "id": 151,
+      "title": "Engelsk-svensk ordbok på Agatha Christie",
+      "author": "Pernilla Hansén",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9197311413/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "sweeng",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "91-973114-1-3",
+      "copies": 3
+    },
+    {
+      "id": 152,
+      "title": "Geography :  realms, regions, and concepts",
+      "author": "H J. de Blij, Peter O. Muller",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=0471580899/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "0-471-58089-9",
+      "copies": 9
+    },
+    {
+      "id": 153,
+      "title": "Perspektiv på samhället 1-3",
+      "author": "Johan Eriksson, Peggy Thornström & Jenny Kesselfors",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9188229076/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "978-91-88229-07-6",
+      "copies": 11
+    },
+    {
+      "id": 154,
+      "title": "Nya tidens världshistoria",
+      "author": "R R. Palmer, Joel Colton",
+      "lang": "Svenska",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "91-21-15531-3",
+      "copies": 7
+    },
+    {
+      "id": 155,
+      "title": "Intimate kill",
+      "author": "Margaret Yorke",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9127571181/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "91-27-57118-1",
+      "copies": 1
+    },
+    {
+      "id": 156,
+      "title": "Med kungen på Eriksgata",
+      "author": "Stig Hadenius och Birgit Janrup",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": [],
+      "copies": 6
+    },
+    {
+      "id": 157,
+      "title": "Antologi för gymnasieskolan",
+      "author": "Dick Widing, Sara Lidman",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "91-27-59180-8",
+      "copies": 13
+    },
+    {
+      "id": 158,
+      "title": "Samband historia",
+      "author": "Niklas Ericsson, Magnus Hansson",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9162272403/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "978-91-622-7240-1",
+      "copies": 9
+    },
+    {
+      "id": 159,
+      "title": "Nineteen eighty-four",
+      "author": "George Orwell",
+      "lang": "Engelska",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "0-582-53658-8",
+      "copies": 5
+    },
+    {
+      "id": 80,
+      "title": "Ōoku : the inner chambers. Vol. 4",
+      "author": "Fumi Yoshinaga",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1421531690/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Tecknade serier",
+        "Manga",
+        "Skönlitteratur",
+        "Gamers"
+      ],
+      "ISBN": "9781421531694",
+      "copies": 9
+    },
+    {
+      "id": 81,
+      "title": "Eden :  it's an endless world!",
+      "author": "Hiroki Endo",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1593077025/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Gamers"
+      ],
+      "ISBN": "1-59307-702-5",
+      "copies": 10
+    },
+    {
+      "id": 82,
+      "title": "Ōoku : the inner chambers. Vol. 2",
+      "author": "Fumi Yoshinaga",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1421527480/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Skönlitteratur",
+        "Tecknade serier",
+        "Manga",
+        "Gamers"
+      ],
+      "ISBN": "9781421527482",
+      "copies": 14
+    },
+    {
+      "id": 83,
+      "title": "Ōoku : the inner chambers. Vol. 1",
+      "author": "Fumi Yoshinaga",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1421527472/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Manga",
+        "Tecknade serier",
+        "Gamers"
+      ],
+      "ISBN": "9781421527475",
+      "copies": 2
+    },
+    {
+      "id": 84,
+      "title": "Ayako",
+      "author": "Osamu Tezuka",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1934287512/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Gamers"
+      ],
+      "ISBN": "978-1-934287-51-4",
+      "copies": 5
+    },
+    {
+      "id": 85,
+      "title": "Carole & Tuesday art",
+      "author": "Någon, nånstans, nån gång.",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=197531302X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=on1151981016",
+      "lang": "Engelska",
+      "genre": [
+        "Tecknade serier",
+        "Manga",
+        "Science fiction",
+        "Ungdomsböcker",
+        "Barn- och ungdomslitteratur",
+        "Gamers"
+      ],
+      "ISBN": "9781975313029",
+      "copies": 2
+    },
+    {
+      "id": 86,
+      "title": "The witch and the beast Kousuke Satake",
+      "author": "Någon, nånstans, nån gång.",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1646510240/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Tecknade serier",
+        "Manga",
+        "Unga vuxna",
+        "Barn- och ungdomslitteratur",
+        "Gamers"
+      ],
+      "ISBN": "9781646510245",
+      "copies": 8
+    },
+    {
+      "id": 87,
+      "title": "Quetzels torn",
+      "author": "Chris McDowall, Patrick Stuart, Ben Milton, Karl Stjernberg",
+      "lang": "Svenska",
+      "genre": [
+        "Gamers"
+      ],
+      "ISBN": "9789188805041",
+      "copies": 14
+    },
+    {
+      "id": 88,
+      "title": "Cyberpunk red : the roleplaying game of the dark future",
+      "author": "Mike Pondsmith",
+      "lang": "Engelska",
+      "genre": [
+        "Regler",
+        "Handböcker, manualer etc",
+        "Gamers"
+      ],
+      "ISBN": "9781950911066",
+      "copies": 10
+    },
+    {
+      "id": 89,
+      "title": "Chock. Åter från graven",
+      "author": "Ingen vet",
+      "lang": "Svenska",
+      "genre": [
+        "Gamers"
+      ],
+      "ISBN": "9789198541885",
+      "copies": 3
+    },
+    {
+      "id": 90,
+      "title": "Ōoku : the inner chambers. Vol. 5",
+      "author": "Fumi Yoshinaga",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1421536692/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Tecknade serier",
+        "Manga",
+        "Skönlitteratur",
+        "Gamers"
+      ],
+      "ISBN": "9781421536699",
+      "copies": 7
+    },
+    {
+      "id": 91,
+      "title": "Eden :  it's an endless world!",
+      "author": "Hiroki Endo",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1593076347/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Gamers"
+      ],
+      "ISBN": "1-59307-634-7",
+      "copies": 0
+    },
+    {
+      "id": 92,
+      "title": "Fire punch, vol. 1",
+      "author": "Ingen vet",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1421597179/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Gamers"
+      ],
+      "ISBN": "9781421597171",
+      "copies": 0
+    },
+    {
+      "id": 93,
+      "title": "Venus in the blind spot",
+      "author": "Junji Ito",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1974715477/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Tecknade serier",
+        "Skräck",
+        "Gamers"
+      ],
+      "ISBN": "9781974715473",
+      "copies": 1
+    },
+    {
+      "id": 94,
+      "title": "Slocknad stjärna : Yndaros : tredje delen i krönikan om törnetronen",
+      "author": "Martin Grip, Mattias Johnsson, Mattias Lilja",
+      "lang": "Svenska",
+      "genre": [
+        "Rollspel",
+        "Gamers"
+      ],
+      "ISBN": "9789187915420",
+      "copies": 10
+    },
+    {
+      "id": 95,
+      "title": "Den sista najaden : ett äventyr till Oktoberlandet",
+      "author": "Nils Hintze",
+      "lang": "Svenska",
+      "genre": [
+        "Steampunk",
+        "Urban fantasy",
+        "Gamers"
+      ],
+      "ISBN": "9789187222498",
+      "copies": 4
+    },
+    {
+      "id": 96,
+      "title": "Dungeons & dragons. Dungeon master's guide",
+      "author": "Någon, nånstans, nån gång.",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=0786965622/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Fantasy",
+        "Regler",
+        "Gamers"
+      ],
+      "ISBN": "9780786965625",
+      "copies": 11
+    },
+    {
+      "id": 97,
+      "title": "Dune : adventures in the Imperium, the role playing game",
+      "author": "Nathan Dowdell",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1912743590/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=on1260698860",
+      "lang": "Engelska",
+      "genre": [
+        "Handböcker, manualer etc",
+        "Regler",
+        "Gamers"
+      ],
+      "ISBN": "9781912743599",
+      "copies": 3
+    },
+    {
+      "id": 98,
+      "title": "Red carnations on a black grave",
+      "author": "by Catherine Ramen",
+      "lang": "Engelska",
+      "genre": [
+        "Spel",
+        "Gamers"
+      ],
+      "ISBN": "9780991788804",
+      "copies": 13
+    },
+    {
+      "id": 160,
+      "title": "Draken med de röda ögonen",
+      "author": "Astrid Lindgren, Ilon Wikland",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9129701473/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Barn- och ungdomslitteratur",
+        "Barn"
+      ],
+      "ISBN": "9789129701470",
+      "copies": 4
+    },
+    {
+      "id": 161,
+      "title": "Karnevalen i Brind",
+      "author": "Kyrre Thalberg, Sara Snogerup Linse",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9175272555/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Kapitelböcker",
+        "Barn- och ungdomslitteratur",
+        "Barn"
+      ],
+      "ISBN": "9789175272559",
+      "copies": 0
+    },
+    {
+      "id": 162,
+      "title": "Finn och draken",
+      "author": "Irene Wellershoff, Jan Birck",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9187075199/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Barn- och ungdomslitteratur",
+        "Barn"
+      ],
+      "ISBN": "9789187075193",
+      "copies": 7
+    },
+    {
+      "id": 163,
+      "title": "Kjetil och Annika",
+      "author": "Kyrre Thalberg, Sara Snogerup Linse",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9175271427/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Kapitelböcker",
+        "Barn- och ungdomslitteratur",
+        "Barn"
+      ],
+      "ISBN": "9789175271422",
+      "copies": 12
+    },
+    {
+      "id": 164,
+      "title": "Draksommar",
+      "author": "Kyrre Thalberg, Sara Snogerup Linse",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9175270218/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Kapitelböcker",
+        "Barn"
+      ],
+      "ISBN": "978-91-7527-021-0",
+      "copies": 10
+    },
+    {
+      "id": 165,
+      "title": "Kjetil och Jostein",
+      "author": "Kyrre Thalberg, Sara Snogerup Linse",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9175270579/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Kapitelböcker",
+        "Barn"
+      ],
+      "ISBN": "978-91-7527-057-9",
+      "copies": 13
+    },
+    {
+      "id": 166,
+      "title": "Bamse och Hoppa-Tossa",
+      "author": "Karin Didring",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9174052187/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Barn- och ungdomslitteratur",
+        "Barn"
+      ],
+      "ISBN": "9789174052183",
+      "copies": 2
+    },
+    {
+      "id": 167,
+      "title": "Ta hand om din drake",
+      "author": "MP. Robertson",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9176270092/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Barn"
+      ],
+      "ISBN": "9789176270097",
+      "copies": 5
+    },
+    {
+      "id": 168,
+      "title": "Berätta om din drake",
+      "author": "Jackie Morris",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9188262855/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Barn"
+      ],
+      "ISBN": "978-91-88262-85-1",
+      "copies": 7
+    },
+    {
+      "id": 169,
+      "title": "Mumintrollen och draken : efter en berättelse av Tove Jansson",
+      "author": "Cecilia Davidsson, Cecilia Heikkilä",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9178035333/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Barn- och ungdomslitteratur",
+        "Barn"
+      ],
+      "ISBN": "9789178035335",
+      "copies": 11
+    },
+    {
+      "id": 170,
+      "title": "Birger - det lilla Storsjöodjuret hittar på",
+      "author": "Sara Strömberg",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9163768291/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Barn- och ungdomslitteratur",
+        "Barn"
+      ],
+      "ISBN": "9789163768293",
+      "copies": 0
+    },
+    {
+      "id": 171,
+      "title": "Kjetil lär sig flyga",
+      "author": "Kyrre Thalberg, Sara Snogerup Linse",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9186129902/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Kapitelböcker",
+        "Barn"
+      ],
+      "ISBN": "978-91-86129-90-3",
+      "copies": 8
+    },
+    {
+      "id": 172,
+      "title": "Birger - det lilla Storsjöodjuret letar överallt",
+      "author": "Sara Strömberg",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9198508636/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Barn- och ungdomslitteratur",
+        "Barn"
+      ],
+      "ISBN": "9789198508635",
+      "copies": 14
+    },
+    {
+      "id": 173,
+      "title": "Drakjägarna",
+      "author": "Xiong Liang",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9188253988/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Barn- och ungdomslitteratur",
+        "Bilderböcker",
+        "Barn"
+      ],
+      "ISBN": "9789188253989",
+      "copies": 6
+    },
+    {
+      "id": 174,
+      "title": "Oskar och den utsvultna draken",
+      "author": "Ute Krause",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=8779161065/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Barn- och ungdomslitteratur",
+        "Barn"
+      ],
+      "ISBN": "9788779161061",
+      "copies": 11
+    },
+    {
+      "id": 175,
+      "title": "Rolf och den ryslige riddar Roland",
+      "author": "Ute Krause",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=8779162304/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Barn"
+      ],
+      "ISBN": "9788779162303",
+      "copies": 4
+    },
+    {
+      "id": 176,
+      "title": "Drakpost",
+      "author": "Emma Yarlett",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9198534319/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Barn- och ungdomslitteratur",
+        "Mekaniska böcker",
+        "Barn"
+      ],
+      "ISBN": "9789198534313",
+      "copies": 2
+    },
+    {
+      "id": 177,
+      "title": "Bara knyt, Alfons!",
+      "author": "Gunilla Bergström",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9129656834/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Barn"
+      ],
+      "ISBN": "9129656834",
+      "copies": 13
+    },
+    {
+      "id": 178,
+      "title": "Zogg och de flygande doktorerna",
+      "author": "Julia Donaldson",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9150119206/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Rim",
+        "Barn- och ungdomslitteratur",
+        "Barn"
+      ],
+      "ISBN": "9789150119206",
+      "copies": 12
+    },
+    {
+      "id": 179,
+      "title": "Kivi & drakbrakaren",
+      "author": "Jesper Lundqvist, Bettina Johansson",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=918834729X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Rim",
+        "Barn- och ungdomslitteratur",
+        "Barn"
+      ],
+      "ISBN": "9789188347299",
+      "copies": 9
+    },
+    {
+      "id": 20,
+      "title": "Snorres Edda",
+      "author": "Björn Collinder",
+      "genre": [
+        "Pensionär"
+      ],
+      "ISBN": "91-37-08284-1",
+      "copies": 14
+    },
+    {
+      "id": 21,
+      "title": "Sherlock Holmes i skräckens dal",
+      "author": "Arthur Conan Doyle",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9177423232/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Pensionär"
+      ],
+      "ISBN": "91-7742-323-2",
+      "copies": 0
+    },
+    {
+      "id": 22,
+      "title": "Den lilla kaninen",
+      "author": "Ariane",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9163866765/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Pensionär"
+      ],
+      "ISBN": "91-638-6676-5",
+      "copies": 5
+    },
+    {
+      "id": 23,
+      "title": "En dåres försvarstal",
+      "author": "August Strindberg",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9113040235/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Pensionär"
+      ],
+      "ISBN": "91-1-304023-5",
+      "copies": 2
+    },
+    {
+      "id": 24,
+      "title": "Bröderna Karamazov. 2",
+      "author": "Fjodor Dostojevskij",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9177010388/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Romaner",
+        "Pensionär"
+      ],
+      "ISBN": "9789177010388",
+      "copies": 8
+    },
+    {
+      "id": 25,
+      "title": "En julsaga",
+      "author": "Charles Dickens",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9177810139/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Spökhistorier",
+        "Skönlitteratur",
+        "Pensionär"
+      ],
+      "ISBN": "9789177810131",
+      "copies": 4
+    },
+    {
+      "id": 26,
+      "title": "Antigone",
+      "author": "Sofokles",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9172473592/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Pensionär"
+      ],
+      "ISBN": "9789172473591",
+      "copies": 4
+    },
+    {
+      "id": 27,
+      "title": "Norrtullsligan",
+      "author": "Elin Wägner",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9177425359/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Romaner",
+        "Pensionär"
+      ],
+      "ISBN": "9789177425359",
+      "copies": 8
+    },
+    {
+      "id": 28,
+      "title": "En världsomsegling under havet",
+      "author": "Jules Verne",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=918827506X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Äventyrsskildringar",
+        "Romaner",
+        "Pensionär"
+      ],
+      "ISBN": "9789188275066",
+      "copies": 3
+    },
+    {
+      "id": 29,
+      "title": "Thérèse Raquin",
+      "author": "Émile Zola",
+      "lang": "Svenska",
+      "genre": [
+        "Pensionär"
+      ],
+      "ISBN": "91-88680-48-7",
+      "copies": 7
+    },
+    {
+      "id": 30,
+      "title": "En liten indian",
+      "author": "Margaret Wise Brown",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9163866587/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Pensionär"
+      ],
+      "ISBN": "91-638-6658-7",
+      "copies": 13
+    },
+    {
+      "id": 31,
+      "title": "Den gamle och havet",
+      "author": "Ernest Hemingway",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9177424883/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Romaner",
+        "Pensionär"
+      ],
+      "ISBN": "9789177424888",
+      "copies": 8
+    },
+    {
+      "id": 32,
+      "title": "Lysande utsikter",
+      "author": "John Doe",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=872812507X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Pensionär"
+      ],
+      "ISBN": "9788728125076",
+      "copies": 9
+    },
+    {
+      "id": 33,
+      "title": "Djurfarmen",
+      "author": "George Orwell",
+      "lang": "Svenska",
+      "genre": [
+        "Satir",
+        "Politiska skildringar",
+        "Fabler",
+        "Romaner",
+        "Pensionär"
+      ],
+      "ISBN": "9789177818649",
+      "copies": 11
+    },
+    {
+      "id": 34,
+      "title": "Den gudomliga komedin",
+      "author": "Dante Alighieri",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9163764350/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Pensionär"
+      ],
+      "ISBN": "9789163764356",
+      "copies": 3
+    },
+    {
+      "id": 35,
+      "title": "Nils Holgerssons underbara resa genom Sverige",
+      "author": "Selma Lagerlöf",
+      "genre": [
+        "Pensionär"
+      ],
+      "ISBN": "91-24-61492-0",
+      "copies": 12
+    },
+    {
+      "id": 36,
+      "title": "Stigfinnaren",
+      "author": "J Fenimore Cooper",
+      "lang": "Svenska",
+      "genre": [
+        "Pensionär"
+      ],
+      "ISBN": "91-20-07211-2",
+      "copies": 9
+    },
+    {
+      "id": 37,
+      "title": "Fettpärlan",
+      "author": "Guy de Maupassant",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9127554244/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Pensionär"
+      ],
+      "ISBN": "91-27-55424-4",
+      "copies": 5
+    },
+    {
+      "id": 38,
+      "title": "Walt Disney's Lady och Lufsen",
+      "author": "Ward Greene",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9163866692/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilderböcker",
+        "Pensionär"
+      ],
+      "ISBN": "91-638-6669-2",
+      "copies": 7
+    },
+    {
+      "id": 39,
+      "title": "Karolinerna :  berättelser",
+      "author": "Verner von Heidenstam",
+      "genre": [
+        "Pensionär"
+      ],
+      "ISBN": [],
+      "copies": 4
+    },
+    {
+      "id": 60,
+      "title": "We sprout in thy soil  [Ljudupptagning]",
+      "author": "David Åhlén",
+      "lang": "Creek, Engelska",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 0
+    },
+    {
+      "id": 61,
+      "title": "Lyft din blick  [Ljudupptagning]",
+      "author": "the Mess",
+      "lang": "Creek, Svenska",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 11
+    },
+    {
+      "id": 62,
+      "title": "Medeltida kyrkomusik för manskör [Ljudupptagning]",
+      "author": "Våga vinn!",
+      "lang": "Creek, Latin",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 14
+    },
+    {
+      "id": 63,
+      "title": "Lifetime  [Ljudupptagning] :  [a retrospective of soul, blues & gospel 1956-1999]",
+      "author": "Johnnie Taylor",
+      "lang": "Creek, Engelska",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 9
+    },
+    {
+      "id": 64,
+      "title": "The essential Mahalia Jackson  [Ljudupptagning]",
+      "author": "(C Ward ...)",
+      "lang": "Creek, Engelska",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 7
+    },
+    {
+      "id": 65,
+      "title": "Sånger för livet i Globen  [Ljudupptagning] :  våra mest folkkära artister, 3000 körsångare och musiker med jättepublik i en härlig sång- och musikfest",
+      "author": "J Frank",
+      "lang": "Creek, Svenska, Engelska",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 3
+    },
+    {
+      "id": 66,
+      "title": "Where no one stands alone Elvis Presley ; produced by Joel Weinshanker, Lisa Marie Presley and Andy Childs. [Ljudupptagning]",
+      "author": "Någon, nånstans, nån gång.",
+      "lang": "Engelska",
+      "genre": [
+        "Musikinspelningar",
+        "Gospel",
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 11
+    },
+    {
+      "id": 67,
+      "title": "Blessed  [Ljudupptagning]",
+      "author": "David Mulovhedzi",
+      "lang": "Creek, Zulu, Engelska",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 6
+    },
+    {
+      "id": 68,
+      "title": "Keep movin  [Ljudupptagning]",
+      "author": "Ole Börud, vocals, guitars, bass, additional keys",
+      "lang": "Creek",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 7
+    },
+    {
+      "id": 69,
+      "title": "Forever reign  [Ljudupptagning]",
+      "author": "Dean Ussher, Karl Cashwell",
+      "lang": "Creek, Engelska",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 14
+    },
+    {
+      "id": 70,
+      "title": "Sangen fra katakombene  [Ljudupptagning]",
+      "author": "Någon, nånstans, nån gång.",
+      "lang": "Creek, Norwegian",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 14
+    },
+    {
+      "id": 71,
+      "title": "Gud har 99 namn  [Ljudupptagning]",
+      "author": "Våga vinn!",
+      "lang": "Creek, Flerspråkig",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 3
+    },
+    {
+      "id": 72,
+      "title": "\"I feel the Holy Spirit\"  [Ljudupptagning]",
+      "author": "Clara Ward",
+      "lang": "Creek, Engelska",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 3
+    },
+    {
+      "id": 73,
+      "title": "Lifetime  [Ljudupptagning] :  [a retrospective of soul, blues & gospel 1956-1999]",
+      "author": "Johnnie Taylor",
+      "lang": "Creek, Engelska",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 13
+    },
+    {
+      "id": 74,
+      "title": "Big bang  [Ljudupptagning]",
+      "author": "Simon Ådahl",
+      "lang": "Creek, Svenska",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 8
+    },
+    {
+      "id": 75,
+      "title": "In this house  [Ljudupptagning]",
+      "author": "T Aas, J. Groth",
+      "lang": "Creek, Engelska",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 4
+    },
+    {
+      "id": 76,
+      "title": "Hjärtats längtan musik",
+      "author": "Camilla Voigt",
+      "lang": "Svenska",
+      "genre": [
+        "Musikinspelningar",
+        "Andlig musik",
+        "Damkör",
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 3
+    },
+    {
+      "id": 77,
+      "title": "Jerusalem klassiker  [Ljudupptagning]",
+      "author": "Jesus",
+      "lang": "Creek, Engelska",
+      "genre": [
+        "Religiös"
+      ],
+      "ISBN": [],
+      "copies": 8
+    },
+    {
+      "id": 120,
+      "title": "Lögnerskan",
+      "author": "Torill Thorup",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9177137450/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [],
+      "ISBN": "91-7713-745-0",
+      "copies": 0
+    },
+    {
+      "id": 121,
+      "title": "Flykten från det förflutna",
+      "author": "Torill Thorup",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9177137434/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [],
+      "ISBN": "91-7713-743-4",
+      "copies": 10
+    },
+    {
+      "id": 122,
+      "title": "Lycka och livsstilslögner på landet! : roman",
+      "author": "Anna Winberg",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=918844757X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Relationsskildringar",
+        "Romaner"
+      ],
+      "ISBN": "9789188447579",
+      "copies": 3
+    },
+    {
+      "id": 123,
+      "title": "Resan till huvudstaden",
+      "author": "Någon, nånstans, nån gång.",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9177137515/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [],
+      "ISBN": "9789177137511",
+      "copies": 4
+    },
+    {
+      "id": 124,
+      "title": "Besatthet",
+      "author": "Torill Thorup",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9177137477/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [],
+      "ISBN": "91-7713-747-7",
+      "copies": 14
+    },
+    {
+      "id": 125,
+      "title": "Nattvandraren",
+      "author": "Torill Thorup",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9177137418/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [],
+      "ISBN": "91-7713-741-8",
+      "copies": 2
+    },
+    {
+      "id": 126,
+      "title": "Storstadskärlek",
+      "author": "Linda Forss",
+      "lang": "Svenska",
+      "genre": [
+        "Romaner",
+        "Kärleksskildringar"
+      ],
+      "ISBN": "9789150946048",
+      "copies": 0
+    },
+    {
+      "id": 127,
+      "title": "Hemligheten i Cornwall",
+      "author": "Liz Fenwick",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9113089900/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Romaner",
+        "Relationsskildringar"
+      ],
+      "ISBN": "9789113089904",
+      "copies": 14
+    },
+    {
+      "id": 128,
+      "title": "Tid för avsked",
+      "author": "Torill Thorup",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9177137531/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [],
+      "ISBN": "9789177137535",
+      "copies": 12
+    },
+    {
+      "id": 129,
+      "title": "Inte bara amen och halleluja",
+      "author": "Aili Lundmark",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9175575434/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Feelgood",
+        "Romaner"
+      ],
+      "ISBN": "9789175575438",
+      "copies": 9
+    },
+    {
+      "id": 130,
+      "title": "En nästan perfekt mamma",
+      "author": "Lilly Emme",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9177894979/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Romaner",
+        "Feelgood"
+      ],
+      "ISBN": "9789177894971",
+      "copies": 6
+    },
+    {
+      "id": 131,
+      "title": "MeloDrama Queens : vad kan gå fel!",
+      "author": "Nanne Grönvall",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9189261526/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Chick lit",
+        "Feelgood",
+        "Romaner"
+      ],
+      "ISBN": "9789189261525",
+      "copies": 9
+    },
+    {
+      "id": 132,
+      "title": "Bara på besök",
+      "author": "Beth O´Leary",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9177713338/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Romaner",
+        "Feelgood"
+      ],
+      "ISBN": "9789177713333",
+      "copies": 6
+    },
+    {
+      "id": 133,
+      "title": "Hemma hos Bettan",
+      "author": "Eli Åhman Owetz",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9176294021/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Feelgood",
+        "Relationsskildringar",
+        "Romaner"
+      ],
+      "ISBN": "9789176294024",
+      "copies": 7
+    },
+    {
+      "id": 134,
+      "title": "Gräddhyllan",
+      "author": "Elin Eldestrand",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9176972089/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Romaner",
+        "Humoristiska skildringar",
+        "Feelgood",
+        "Humor"
+      ],
+      "ISBN": "9789176972083",
+      "copies": 0
+    },
+    {
+      "id": 135,
+      "title": "Nästan vuxen",
+      "author": "Bente Pedersen",
+      "lang": "Svenska",
+      "genre": [
+        "Utvecklingsromaner",
+        "Romaner",
+        "Historiska skildringar"
+      ],
+      "ISBN": "9789177137108",
+      "copies": 7
+    },
+    {
+      "id": 136,
+      "title": "Förälskad i trubbel",
+      "author": "Sarah Title",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9198409719/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Romaner"
+      ],
+      "ISBN": "9789198409710",
+      "copies": 13
+    },
+    {
+      "id": 137,
+      "title": "Den franska fotografen",
+      "author": "Natasha Lester",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=917028606X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Romaner",
+        "Historiska skildringar"
+      ],
+      "ISBN": "9789170286063",
+      "copies": 1
+    },
+    {
+      "id": 138,
+      "title": "Bröllopsresa",
+      "author": "Bente Pedersen",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9177137191/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Kärleksskildringar"
+      ],
+      "ISBN": "9789177137191",
+      "copies": 14
+    },
+    {
+      "id": 139,
+      "title": "Ett liv i synd",
+      "author": "Bente Pedersen",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9177137213/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Kärleksskildringar",
+        "Romaner",
+        "Historiska skildringar"
+      ],
+      "ISBN": "9789177137214",
+      "copies": 0
+    },
+    {
+      "id": 0,
+      "title": "Pianostämmaren [Ljudupptagning] : kriminalroman",
+      "author": "Stefan Tegenfalk",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9186649752/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Deckare",
+        "Skönlitteratur",
+        "Romaner",
+        "Bilvänlig"
+      ],
+      "ISBN": "978-91-86649-75-3",
+      "copies": 9
+    },
+    {
+      "id": 1,
+      "title": "Storsjöodjuret [Ljudupptagning]",
+      "author": "Jonas Moström",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9174831348/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Deckare",
+        "Skönlitteratur",
+        "Romaner",
+        "Bilvänlig"
+      ],
+      "ISBN": "978-91-7483-134-4",
+      "copies": 10
+    },
+    {
+      "id": 2,
+      "title": "Kvinnan i fönstret [Ljudupptagning]",
+      "author": "A J. Finn",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9176472000/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Ljudböcker",
+        "Romaner",
+        "Thrillers",
+        "Bilvänlig"
+      ],
+      "ISBN": "9789176472002",
+      "copies": 13
+    },
+    {
+      "id": 3,
+      "title": "Misstaget [Ljudupptagning] : en Jack Reacher-thriller",
+      "author": "Lee Child",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9173513253/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Thrillers",
+        "Skönlitteratur",
+        "Romaner",
+        "Bilvänlig"
+      ],
+      "ISBN": "978-91-7351-325-8",
+      "copies": 2
+    },
+    {
+      "id": 4,
+      "title": "Bittrare än döden [Ljudupptagning] : psykologisk spänningsroman",
+      "author": "Camilla Grebe, Åsa Träff",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9186223631/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Deckare",
+        "Skönlitteratur",
+        "Romaner",
+        "Bilvänlig"
+      ],
+      "ISBN": "978-91-86223-63-2",
+      "copies": 10
+    },
+    {
+      "id": 5,
+      "title": "Honungsfällan [Ljudupptagning]",
+      "author": "Unni Lindell",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9164221385/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Deckare",
+        "Skönlitteratur",
+        "Romaner",
+        "Bilvänlig"
+      ],
+      "ISBN": "978-91-642-2138-4",
+      "copies": 13
+    },
+    {
+      "id": 6,
+      "title": "Skumrask [Ljudupptagning] : en Sten Wall-deckare",
+      "author": "Björn Hellberg",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9174831429/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Deckare",
+        "Skönlitteratur",
+        "Romaner",
+        "Bilvänlig"
+      ],
+      "ISBN": "978-91-7483-142-9",
+      "copies": 6
+    },
+    {
+      "id": 7,
+      "title": "Midnattssol [Ljudupptagning]",
+      "author": "Jo Nesbø",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9164222772/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Ljudböcker",
+        "Skönlitteratur",
+        "Thrillers",
+        "Bilvänlig"
+      ],
+      "ISBN": "9789164222770",
+      "copies": 1
+    },
+    {
+      "id": 8,
+      "title": "En bror att dö för Roslund & Thunberg. [Ljudupptagning]",
+      "author": "Någon, nånstans, nån gång.",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=916422287X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Ljudböcker",
+        "Deckare",
+        "Bilvänlig"
+      ],
+      "ISBN": "9789164222879",
+      "copies": 3
+    },
+    {
+      "id": 9,
+      "title": "Filosofiska söndagsklubben [Ljudupptagning]",
+      "author": "Alexander McCall Smith",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9171306714/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Bilvänlig"
+      ],
+      "ISBN": "91-7130-671-4",
+      "copies": 10
+    },
+    {
+      "id": 10,
+      "title": "Livstid [Ljudupptagning]",
+      "author": "Liza Marklund",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9164220869/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Thrillers",
+        "Skönlitteratur",
+        "Romaner",
+        "Bilvänlig"
+      ],
+      "ISBN": "91-642-2086-9",
+      "copies": 13
+    },
+    {
+      "id": 11,
+      "title": "Skulden",
+      "author": "David Baldacci",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9178352835/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Ljudböcker",
+        "Thrillers",
+        "Bilvänlig"
+      ],
+      "ISBN": "9789178352838",
+      "copies": 4
+    },
+    {
+      "id": 12,
+      "title": "Natriumklorid",
+      "author": "Jussi Adler-Olsen",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9100197939/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Ljudböcker",
+        "Deckare",
+        "Romaner",
+        "Skönlitteratur",
+        "Bilvänlig"
+      ],
+      "ISBN": "9789100197933",
+      "copies": 8
+    },
+    {
+      "id": 13,
+      "title": "Ett litet snedsprång  [Ljudupptagning]",
+      "author": "Denise Rudberg",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9113030043/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Deckare",
+        "Skönlitteratur",
+        "Romaner",
+        "Bilvänlig"
+      ],
+      "ISBN": "978-91-1-303004-3",
+      "copies": 1
+    },
+    {
+      "id": 14,
+      "title": "Rotvälta",
+      "author": "Tove Alsterdal",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9179033423/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Deckare",
+        "Romaner",
+        "Ljudböcker",
+        "Bilvänlig"
+      ],
+      "ISBN": "9789179033422",
+      "copies": 12
+    },
+    {
+      "id": 15,
+      "title": "Mörk jord [Ljudupptagning]",
+      "author": "Ann Cleeves",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9176471330/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Ljudböcker",
+        "Deckare",
+        "Romaner",
+        "Bilvänlig"
+      ],
+      "ISBN": "9789176471333",
+      "copies": 7
+    },
+    {
+      "id": 16,
+      "title": "Syndabocken Sofie Sarenbrant ; uppläsare: Katarina Ewerlöf. [Ljudupptagning]",
+      "author": "Någon, nånstans, nån gång.",
+      "lang": "Svenska",
+      "genre": [
+        "Ljudböcker",
+        "Deckare",
+        "Bilvänlig"
+      ],
+      "ISBN": "9789188545602",
+      "copies": 10
+    },
+    {
+      "id": 17,
+      "title": "Inte ett ord",
+      "author": "Harlan Coben",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9179191754/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Thrillers",
+        "Romaner",
+        "Ljudböcker",
+        "Bilvänlig"
+      ],
+      "ISBN": "9789179191757",
+      "copies": 3
+    },
+    {
+      "id": 18,
+      "title": "Den man älskar  [Ljudupptagning] :  kriminalroman",
+      "author": "Mari Jungstedt",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9173487937/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Deckare",
+        "Skönlitteratur",
+        "Romaner",
+        "Bilvänlig"
+      ],
+      "ISBN": "978-91-7348-793-1",
+      "copies": 3
+    },
+    {
+      "id": 19,
+      "title": "Elva änkors man",
+      "author": "Denise Rudberg",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9189393651/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Deckare",
+        "Romaner",
+        "Ljudböcker",
+        "Bilvänlig"
+      ],
+      "ISBN": "9789189393653",
+      "copies": 11
+    },
+    {
+      "id": 100,
+      "title": "Village of stone",
+      "author": "Xiaolu Guo",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=0099484951/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [],
+      "ISBN": "0-099-48495-1",
+      "copies": 11
+    },
+    {
+      "id": 101,
+      "title": "Dancing on the edge",
+      "author": "Han Nolan",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=0141302038/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [],
+      "ISBN": "0-14-130203-8",
+      "copies": 6
+    },
+    {
+      "id": 102,
+      "title": "The house of silk",
+      "author": "Anthony Horowitz",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1409133826/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [],
+      "ISBN": "978-1-4091-3382-7",
+      "copies": 4
+    },
+    {
+      "id": 103,
+      "title": "Dare me : a novel",
+      "author": "Megan Abbott",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=0316097780/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=ocn857230628",
+      "lang": "Engelska",
+      "genre": [
+        "Deckare",
+        "Psychological fiction",
+        "Fictional literature"
+      ],
+      "ISBN": "0316097780",
+      "copies": 7
+    },
+    {
+      "id": 104,
+      "title": "An absolutely remarkable thing",
+      "author": "Ingen vet",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1473224195/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Science fiction",
+        "Romaner"
+      ],
+      "ISBN": "9781473224193",
+      "copies": 7
+    },
+    {
+      "id": 105,
+      "title": "Children of the fang and other genealogies",
+      "author": "John Langan",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1939905605/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Skräck",
+        "Noveller"
+      ],
+      "ISBN": "9781939905604",
+      "copies": 3
+    },
+    {
+      "id": 106,
+      "title": "Hooper",
+      "author": "Geoff Herbach",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=0062453114/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Ungdomsböcker",
+        "Unga vuxna"
+      ],
+      "ISBN": "9780062453112",
+      "copies": 8
+    },
+    {
+      "id": 107,
+      "title": "Love, hate & other filters",
+      "author": "Samira Ahmed",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1616958472/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Ungdomsböcker",
+        "Barn- och ungdomslitteratur"
+      ],
+      "ISBN": "9781616958473",
+      "copies": 12
+    },
+    {
+      "id": 108,
+      "title": "The making of Mia",
+      "author": "Ilana Fox",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=0752886053/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [],
+      "ISBN": "9780752886053",
+      "copies": 13
+    },
+    {
+      "id": 109,
+      "title": "The kiss of deception",
+      "author": "Mary E Pearson",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=0805099239/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Barn- och ungdomslitteratur"
+      ],
+      "ISBN": "9780805099232 (inb.)",
+      "copies": 7
+    },
+    {
+      "id": 110,
+      "title": "13 ways of looking at a fat girl",
+      "author": "Mona Awad",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1788549686/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Romaner"
+      ],
+      "ISBN": "9781788549684",
+      "copies": 14
+    },
+    {
+      "id": 111,
+      "title": "Luster",
+      "author": "Raven Leilani",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1529073391/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=on1258132266",
+      "lang": "Engelska",
+      "genre": [
+        "Romaner",
+        "Utvecklingsromaner",
+        "Humor",
+        "Bildungsromans",
+        "Humorous fiction"
+      ],
+      "ISBN": "9781529073393",
+      "copies": 10
+    },
+    {
+      "id": 112,
+      "title": "My dark Vanessa",
+      "author": "Kate Elizabeth Russell",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=0008342288/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Romaner"
+      ],
+      "ISBN": "9780008342289",
+      "copies": 8
+    },
+    {
+      "id": 113,
+      "title": "Switch",
+      "author": "AS. King.",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1922458104/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Science fiction",
+        "Unga vuxna",
+        "Ungdomsböcker",
+        "Barn- och ungdomslitteratur"
+      ],
+      "ISBN": "9781922458100",
+      "copies": 3
+    },
+    {
+      "id": 114,
+      "title": "American panda",
+      "author": "Gloria Chao",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1481499106/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [],
+      "ISBN": "9781481499101",
+      "copies": 11
+    },
+    {
+      "id": 115,
+      "title": "The Sandman :  the dream hunters",
+      "author": "Neil Gaiman",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1840231289/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [],
+      "ISBN": "1-84023-128-9",
+      "copies": 5
+    },
+    {
+      "id": 116,
+      "title": "The pull of the stars",
+      "author": "Emma Donoghue",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=152904619X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Romaner",
+        "Historiska skildringar"
+      ],
+      "ISBN": "9781529046199",
+      "copies": 11
+    },
+    {
+      "id": 117,
+      "title": "Bog child",
+      "author": "Siobhan Dowd",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1909531170/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Ungdomsböcker"
+      ],
+      "ISBN": "9781909531178",
+      "copies": 0
+    },
+    {
+      "id": 118,
+      "title": "You'll miss me when I'm gone",
+      "author": "Rachel Lynn Solomon",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=1481497731/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Engelska",
+      "genre": [
+        "Unga vuxna",
+        "Ungdomsböcker",
+        "Barn- och ungdomslitteratur"
+      ],
+      "ISBN": "9781481497732",
+      "copies": 14
+    },
+    {
+      "id": 40,
+      "title": "Mulle!",
+      "author": "Lena Furberg",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9174058185/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Djur"
+      ],
+      "ISBN": "978-91-7405-818-5",
+      "copies": 9
+    },
+    {
+      "id": 41,
+      "title": "Klara och fölet",
+      "author": "Pia Hagmar",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9132160658/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Mellanåldersböcker",
+        "Hästböcker",
+        "Djur"
+      ],
+      "ISBN": "91-32-16065-8",
+      "copies": 5
+    },
+    {
+      "id": 42,
+      "title": "Nalle Puhs bok :  tre berättelser",
+      "author": "A A. Milne",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9163822326/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Djur"
+      ],
+      "ISBN": "91-638-2232-6",
+      "copies": 2
+    },
+    {
+      "id": 43,
+      "title": "Önskas: litet hårigt djur",
+      "author": "Pia Hagmar",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9132142633/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Djur"
+      ],
+      "ISBN": "91-32-14263-3",
+      "copies": 12
+    },
+    {
+      "id": 44,
+      "title": "Bergsgorillan",
+      "author": "Michael Bright",
+      "lang": "Svenska",
+      "genre": [
+        "Djur"
+      ],
+      "ISBN": "91-21-10143-4",
+      "copies": 0
+    },
+    {
+      "id": 45,
+      "title": "Peanut : ett marsvins resor och äventyr",
+      "author": "Annica Nilsson",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9188187675/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Barn- och ungdomslitteratur",
+        "Kapitelböcker",
+        "Djur"
+      ],
+      "ISBN": "9789188187673",
+      "copies": 13
+    },
+    {
+      "id": 46,
+      "title": "Hundlängtan och utomjordingar",
+      "author": "Anna Helgesson",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9175773821/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Kapitelböcker",
+        "Barn- och ungdomslitteratur",
+        "Djur"
+      ],
+      "ISBN": "9789175773827",
+      "copies": 3
+    },
+    {
+      "id": 47,
+      "title": "Har någon sett Max?",
+      "author": "Ben M Baglio",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9132150016/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Kapitelböcker",
+        "Kapitelböcker",
+        "Djur"
+      ],
+      "ISBN": "91-32-15001-6",
+      "copies": 7
+    },
+    {
+      "id": 48,
+      "title": "Vargar",
+      "author": "Jen Green",
+      "genre": [
+        "Djur"
+      ],
+      "ISBN": "13 978-91-7233-071-9",
+      "copies": 8
+    },
+    {
+      "id": 49,
+      "title": "Hästarnas hjälte",
+      "author": "Tanja Matila",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9189191234/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Kapitelböcker",
+        "Barn- och ungdomslitteratur",
+        "Djur"
+      ],
+      "ISBN": "9789189191235",
+      "copies": 12
+    },
+    {
+      "id": 50,
+      "title": "Dinosaurier",
+      "author": "Joakim Flink",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9186299387/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Djur"
+      ],
+      "ISBN": "9789186299385",
+      "copies": 2
+    },
+    {
+      "id": 51,
+      "title": "Så lever världens rovdjur",
+      "author": "Charlie Bood",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9155228194/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Djur"
+      ],
+      "ISBN": "91-552-2819-4",
+      "copies": 0
+    },
+    {
+      "id": 52,
+      "title": "Djurens rike : [gå på upptäcktsfärd med flikar, informationshjul, plastfolier]",
+      "author": "Barbara Taylor, Steve Pollock",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9171662243/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Djur"
+      ],
+      "ISBN": "91-7166-224-3",
+      "copies": 14
+    },
+    {
+      "id": 53,
+      "title": "Tigrar kysser inte lejon!",
+      "author": "Tanya Stewner",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9173551775/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Kapitelböcker",
+        "Djur"
+      ],
+      "ISBN": "91-7355-177-5",
+      "copies": 12
+    },
+    {
+      "id": 54,
+      "title": "Klaras val",
+      "author": "Pia Hagmar",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=913216064X/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Mellanåldersböcker",
+        "Hästböcker",
+        "Djur"
+      ],
+      "ISBN": "91-32-16064-X",
+      "copies": 8
+    },
+    {
+      "id": 55,
+      "title": "Naturväktarna och den vita räven",
+      "author": "Malin Nilsson",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9186589652/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Kapitelböcker",
+        "Barn- och ungdomslitteratur",
+        "Djur"
+      ],
+      "ISBN": "9789186589653",
+      "copies": 10
+    },
+    {
+      "id": 56,
+      "title": "Pluttifanternas hjälte",
+      "author": "Tanja Matila",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9188813347/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Kapitelböcker",
+        "Barn- och ungdomslitteratur",
+        "Djur"
+      ],
+      "ISBN": "9789188813343",
+      "copies": 4
+    },
+    {
+      "id": 57,
+      "title": "Sofie & Alvar",
+      "author": "Ina Bruhn",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9174492551/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Mellanåldersböcker",
+        "Hästböcker",
+        "Barn- och ungdomslitteratur",
+        "Djur"
+      ],
+      "ISBN": "9789174492552",
+      "copies": 6
+    },
+    {
+      "id": 58,
+      "title": "Molly - tyst som en mus",
+      "author": "Anna Alemo",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9189147936/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "lang": "Svenska",
+      "genre": [
+        "Mellanåldersböcker",
+        "Barn- och ungdomslitteratur",
+        "Djur"
+      ],
+      "ISBN": "9789189147935",
+      "copies": 3
+    },
+    {
+      "id": 59,
+      "title": "Klaras ridlägersommar",
+      "author": "Pia Hagmar",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9132158858/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Mellanåldersböcker",
+        "Hästböcker",
+        "Djur"
+      ],
+      "ISBN": "91-32-15885-8",
+      "copies": 13
+    },
+    {
+      "id": 1999,
+      "title": "norska timmar - litteraturen",
+      "author": "Svante Skoglund",
+      "img": "https://secure.syndetics.com/index.aspx?isbn=9140673375/MC.GIF&client=bibivastse&type=xw10&upc=&oclc=",
+      "genre": [
+        "Akademisk"
+      ],
+      "ISBN": "978-91-40-67337-4",
+      "copies": 11
+    }
+  ],
+  "staff": [
+    {
+      "id": 5,
+      "name": "Florence Stokes",
+      "email": "Horace50@gmail.com",
+      "phone": "(832) 502-2080 x73152",
+      "role": "librarian",
+      "dateOfBirth": "1985-08-12T08:46:47.909Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/ganserene_128.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Kate Bode",
+      "email": "Dusty_Rodriguez@hotmail.com",
+      "phone": "(683) 364-6626",
+      "role": "manager",
+      "dateOfBirth": "1989-05-13T14:12:58.208Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/bublienko_128.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jeton Mustini",
+      "email": "jeton.mustini@hotmail.com",
+      "phone": "(880) 785-3345",
+      "role": "librarian",
+      "dateOfBirth": "1990-10-24T01:11:26.670Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/calebjoyce_128.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Joakim Flink",
+      "email": "joakim.flink@hotmail.com",
+      "phone": "952-531-7444",
+      "role": "author",
+      "dateOfBirth": "1656-11-06T11:03:53.873Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/gmourier_128.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Carlos Corwin",
+      "email": "Fletcher.Cartwright41@hotmail.com",
+      "phone": "(284) 396-6500 x2737",
+      "role": "librarian",
+      "dateOfBirth": "1999-03-16T18:26:12.841Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/sindresorhus_128.jpg"
+    }
+  ],
+  "customers": [
+    {
+      "id": 20,
+      "name": "Miss Thomas Kling",
+      "email": "Kellie_Kunde1@yahoo.com",
+      "password": "Bt9BnesdD3IW3tb",
+      "timestamp": "2021-05-05T08:45:23.515Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/mds_128.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Mrs. Brandon Nienow",
+      "email": "Afton_Champlin@gmail.com",
+      "password": "l5zckkComJGllkn",
+      "timestamp": "2021-05-04T21:26:03.962Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/kaysix_dizzy_128.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Desiree Kuhn",
+      "email": "Brady.Kutch24@hotmail.com",
+      "password": "DmqRhyqtlgqJQ7l",
+      "timestamp": "2021-05-05T04:02:13.518Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/lisovsky_128.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ed Ebert IV",
+      "email": "Jaqueline.Brakus@hotmail.com",
+      "password": "NaYmtLbAXEdD8z8",
+      "timestamp": "2021-05-04T13:01:56.783Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/ffbel_128.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Jon Schimmel",
+      "email": "Brandi_Schuppe@yahoo.com",
+      "password": "UQsYRBMg3pUD8NQ",
+      "timestamp": "2021-05-04T23:21:04.274Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/mbilalsiddique1_128.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Samuel Raynor",
+      "email": "Albert74@gmail.com",
+      "password": "jLAdf49qDA9v8jS",
+      "timestamp": "2021-05-05T09:21:49.278Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/raquelwilson_128.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Hattie Gorczany",
+      "email": "Shanna.Hauck@hotmail.com",
+      "password": "LHUjVVZ32Snd_gp",
+      "timestamp": "2021-05-04T15:19:45.379Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/necodymiconer_128.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Randall Willms",
+      "email": "Monserrat.Dibbert@hotmail.com",
+      "password": "IOw4himmipYG3dR",
+      "timestamp": "2021-05-04T13:30:15.219Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/thierrymeier__128.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Ramona Farrell",
+      "email": "Gwen_Nitzsche39@yahoo.com",
+      "password": "J9IWPxIewm8e8N7",
+      "timestamp": "2021-05-04T11:21:57.595Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/carlosjgsousa_128.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Vernon Kunze DDS",
+      "email": "Maximillia3@yahoo.com",
+      "password": "ODcRSjVVgpsUnLM",
+      "timestamp": "2021-05-05T06:24:05.906Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/allfordesign_128.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Timothy Feeney",
+      "email": "Ewald_Reichel85@gmail.com",
+      "password": "K7tTwETIhwSRO9x",
+      "timestamp": "2021-05-05T08:38:13.317Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/yassiryahya_128.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Angela Schimmel",
+      "email": "Laverne.Harvey@yahoo.com",
+      "password": "bHO_3U3aPM_B38Q",
+      "timestamp": "2021-05-04T16:40:52.528Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/bpartridge_128.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Raquel Feeney DDS",
+      "email": "Katherine.Corkery82@hotmail.com",
+      "password": "K_Epi0MMr6cEE9f",
+      "timestamp": "2021-05-05T00:39:43.644Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/guillemboti_128.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Mr. Rodolfo Thiel",
+      "email": "Loyal.Price@gmail.com",
+      "password": "M8R2S84QbWtjISr",
+      "timestamp": "2021-05-04T10:30:16.658Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/privetwagner_128.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Tony Moore",
+      "email": "Cleta_Gorczany4@yahoo.com",
+      "password": "ye_jzqE9ZLnajDQ",
+      "timestamp": "2021-05-04T22:59:43.511Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/kuldarkalvik_128.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Nick Ledner PhD",
+      "email": "Isaac35@gmail.com",
+      "password": "Akvd1ptbOFe6qNK",
+      "timestamp": "2021-05-04T23:56:16.073Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/larrygerard_128.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Bethany Wiza II",
+      "email": "Fiona62@hotmail.com",
+      "password": "MTGngjpLxxCzPjX",
+      "timestamp": "2021-05-04T16:35:16.435Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/fotomagin_128.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Chad Cruickshank",
+      "email": "Marisa_Mosciski@yahoo.com",
+      "password": "OvOXzL6oAR4k6Nw",
+      "timestamp": "2021-05-04T18:48:28.705Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/krystalfister_128.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Angel Ward",
+      "email": "Noble.Nader@gmail.com",
+      "password": "oV0GTN1rDsdeaJk",
+      "timestamp": "2021-05-05T09:42:47.550Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/davidsasda_128.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Ms. Donnie Hermiston",
+      "email": "Ruthe64@hotmail.com",
+      "password": "2lX87ev2njItUMg",
+      "timestamp": "2021-05-05T04:38:05.370Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/allagringaus_128.jpg"
+    }
+  ],
+  "reservations": [
+    {
+      "id": 50,
+      "customerId": 13,
+      "books": [
+        {
+          "bookID": 14,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 6,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 7,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 13,
+          "returnDate": "2022-10-12"
+        }
+      ],
+      "totalPrice": 37,
+      "timestamp": "2021-05-04T20:14:58.412Z"
+    },
+    {
+      "id": 1,
+      "customerId": 15,
+      "books": [
+        {
+          "bookID": 15,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 7,
+          "returnDate": "2022-10-25"
+        }
+      ],
+      "totalPrice": 30,
+      "timestamp": "2021-05-05T06:37:46.054Z"
+    },
+    {
+      "id": 2,
+      "customerId": 9,
+      "books": [
+        {
+          "bookID": 11,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 1,
+          "returnDate": "2022-09-19"
+        }
+      ],
+      "totalPrice": 25,
+      "timestamp": "2021-05-05T08:12:02.947Z"
+    },
+    {
+      "id": 3,
+      "customerId": 7,
+      "books": [
+        {
+          "bookID": 3,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 7,
+          "returnDate": "2022-10-25"
+        }
+      ],
+      "totalPrice": 22,
+      "timestamp": "2021-05-04T19:29:53.217Z"
+    },
+    {
+      "id": 4,
+      "customerId": 15,
+      "books": [
+        {
+          "bookID": 9,
+          "returnDate": "2022-10-25"
+        },
+        {
+          "bookID": 15,
+          "returnDate": "2022-10-12"
+        }
+      ],
+      "totalPrice": 12,
+      "timestamp": "2021-05-04T21:19:04.597Z"
+    },
+    {
+      "id": 5,
+      "customerId": 11,
+      "books": [
+        {
+          "bookID": 13,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 3,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 1,
+          "returnDate": "2022-09-19"
+        }
+      ],
+      "totalPrice": 34,
+      "timestamp": "2021-05-04T18:56:53.581Z"
+    },
+    {
+      "id": 6,
+      "customerId": 5,
+      "books": [
+        {
+          "bookID": 12,
+          "returnDate": "2022-10-25"
+        },
+        {
+          "bookID": 12,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 3,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 14,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 16,
+          "returnDate": "2022-09-12"
+        }
+      ],
+      "totalPrice": 41,
+      "timestamp": "2021-05-04T17:35:33.482Z"
+    },
+    {
+      "id": 7,
+      "customerId": 16,
+      "books": [
+        {
+          "bookID": 2,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 3,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 10,
+          "returnDate": "2022-09-19"
+        }
+      ],
+      "totalPrice": 34,
+      "timestamp": "2021-05-04T23:27:46.068Z"
+    },
+    {
+      "id": 8,
+      "customerId": 13,
+      "books": [
+        {
+          "bookID": 3,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 16,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 16,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 5,
+          "returnDate": "2022-09-12"
+        }
+      ],
+      "totalPrice": 19,
+      "timestamp": "2021-05-04T16:27:55.433Z"
+    },
+    {
+      "id": 9,
+      "customerId": 4,
+      "books": [
+        {
+          "bookID": 10,
+          "returnDate": "2022-10-25"
+        },
+        {
+          "bookID": 3,
+          "returnDate": "2022-09-12"
+        }
+      ],
+      "totalPrice": 43,
+      "timestamp": "2021-05-05T07:32:00.500Z"
+    },
+    {
+      "id": 10,
+      "customerId": 6,
+      "books": [
+        {
+          "bookID": 9,
+          "returnDate": "2022-10-25"
+        },
+        {
+          "bookID": 14,
+          "returnDate": "2022-10-25"
+        }
+      ],
+      "totalPrice": 50,
+      "timestamp": "2021-05-05T09:25:48.190Z"
+    },
+    {
+      "id": 11,
+      "customerId": 15,
+      "books": [
+        {
+          "bookID": 4,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 5,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 8,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 10,
+          "returnDate": "2022-10-12"
+        }
+      ],
+      "totalPrice": 44,
+      "timestamp": "2021-05-04T19:49:54.923Z"
+    },
+    {
+      "id": 12,
+      "customerId": 3,
+      "books": [
+        {
+          "bookID": 7,
+          "returnDate": "2022-10-25"
+        },
+        {
+          "bookID": 15,
+          "returnDate": "2022-10-25"
+        }
+      ],
+      "totalPrice": 39,
+      "timestamp": "2021-05-04T17:35:25.050Z"
+    },
+    {
+      "id": 13,
+      "customerId": 3,
+      "books": [
+        {
+          "bookID": 13,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 11,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 10,
+          "returnDate": "2022-10-25"
+        }
+      ],
+      "totalPrice": 38,
+      "timestamp": "2021-05-04T18:53:47.975Z"
+    },
+    {
+      "id": 14,
+      "customerId": 16,
+      "books": [
+        {
+          "bookID": 6,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 16,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 1,
+          "returnDate": "2022-10-01"
+        }
+      ],
+      "totalPrice": 31,
+      "timestamp": "2021-05-04T14:25:43.416Z"
+    },
+    {
+      "id": 15,
+      "customerId": 16,
+      "books": [
+        {
+          "bookID": 5,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 16,
+          "returnDate": "2022-09-19"
+        }
+      ],
+      "totalPrice": 35,
+      "timestamp": "2021-05-04T11:48:14.623Z"
+    },
+    {
+      "id": 16,
+      "customerId": 12,
+      "books": [
+        {
+          "bookID": 2,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 4,
+          "returnDate": "2022-09-12"
+        }
+      ],
+      "totalPrice": 38,
+      "timestamp": "2021-05-05T07:25:05.113Z"
+    },
+    {
+      "id": 17,
+      "customerId": 9,
+      "books": [
+        {
+          "bookID": 14,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 13,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 12,
+          "returnDate": "2022-10-12"
+        }
+      ],
+      "totalPrice": 46,
+      "timestamp": "2021-05-04T20:49:32.314Z"
+    },
+    {
+      "id": 18,
+      "customerId": 20,
+      "books": [
+        {
+          "bookID": 9,
+          "returnDate": "2022-10-01"
+        }
+      ],
+      "totalPrice": 13,
+      "timestamp": "2021-05-05T03:22:43.230Z"
+    },
+    {
+      "id": 19,
+      "customerId": 1,
+      "books": [
+        {
+          "bookID": 5,
+          "returnDate": "2022-10-25"
+        },
+        {
+          "bookID": 10,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 5,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 10,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 7,
+          "returnDate": "2022-09-12"
+        }
+      ],
+      "totalPrice": 39,
+      "timestamp": "2021-05-04T14:52:51.066Z"
+    },
+    {
+      "id": 20,
+      "customerId": 11,
+      "books": [
+        {
+          "bookID": 4,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 11,
+          "returnDate": "2022-10-12"
+        }
+      ],
+      "totalPrice": 14,
+      "timestamp": "2021-05-05T01:00:05.635Z"
+    },
+    {
+      "id": 21,
+      "customerId": 18,
+      "books": [
+        {
+          "bookID": 10,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 5,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 8,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 4,
+          "returnDate": "2022-10-01"
+        }
+      ],
+      "totalPrice": 39,
+      "timestamp": "2021-05-04T18:44:04.017Z"
+    },
+    {
+      "id": 22,
+      "customerId": 20,
+      "books": [
+        {
+          "bookID": 2,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 8,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 8,
+          "returnDate": "2022-10-12"
+        }
+      ],
+      "totalPrice": 49,
+      "timestamp": "2021-05-05T10:06:11.089Z"
+    },
+    {
+      "id": 23,
+      "customerId": 4,
+      "books": [
+        {
+          "bookID": 5,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 10,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 12,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 10,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 4,
+          "returnDate": "2022-09-12"
+        }
+      ],
+      "totalPrice": 45,
+      "timestamp": "2021-05-05T01:24:15.801Z"
+    },
+    {
+      "id": 24,
+      "customerId": 6,
+      "books": [
+        {
+          "bookID": 7,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 13,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 11,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 7,
+          "returnDate": "2022-09-19"
+        }
+      ],
+      "totalPrice": 13,
+      "timestamp": "2021-05-05T01:24:46.727Z"
+    },
+    {
+      "id": 25,
+      "customerId": 2,
+      "books": [
+        {
+          "bookID": 3,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 16,
+          "returnDate": "2022-10-25"
+        }
+      ],
+      "totalPrice": 10,
+      "timestamp": "2021-05-04T21:16:45.523Z"
+    },
+    {
+      "id": 26,
+      "customerId": 13,
+      "books": [
+        {
+          "bookID": 4,
+          "returnDate": "2022-10-01"
+        }
+      ],
+      "totalPrice": 46,
+      "timestamp": "2021-05-04T12:37:21.673Z"
+    },
+    {
+      "id": 27,
+      "customerId": 17,
+      "books": [
+        {
+          "bookID": 6,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 3,
+          "returnDate": "2022-09-19"
+        }
+      ],
+      "totalPrice": 10,
+      "timestamp": "2021-05-04T14:35:31.442Z"
+    },
+    {
+      "id": 28,
+      "customerId": 15,
+      "books": [
+        {
+          "bookID": 8,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 13,
+          "returnDate": "2022-10-01"
+        }
+      ],
+      "totalPrice": 22,
+      "timestamp": "2021-05-04T17:21:34.904Z"
+    },
+    {
+      "id": 29,
+      "customerId": 7,
+      "books": [
+        {
+          "bookID": 5,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 6,
+          "returnDate": "2022-10-25"
+        }
+      ],
+      "totalPrice": 48,
+      "timestamp": "2021-05-04T20:34:45.741Z"
+    },
+    {
+      "id": 30,
+      "customerId": 17,
+      "books": [
+        {
+          "bookID": 12,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 7,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 1,
+          "returnDate": "2022-09-19"
+        }
+      ],
+      "totalPrice": 47,
+      "timestamp": "2021-05-05T10:05:32.247Z"
+    },
+    {
+      "id": 31,
+      "customerId": 5,
+      "books": [
+        {
+          "bookID": 8,
+          "returnDate": "2022-10-25"
+        },
+        {
+          "bookID": 6,
+          "returnDate": "2022-10-25"
+        },
+        {
+          "bookID": 15,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 9,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 10,
+          "returnDate": "2022-09-19"
+        }
+      ],
+      "totalPrice": 13,
+      "timestamp": "2021-05-04T20:05:41.462Z"
+    },
+    {
+      "id": 32,
+      "customerId": 9,
+      "books": [
+        {
+          "bookID": 1,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 5,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 14,
+          "returnDate": "2022-10-25"
+        },
+        {
+          "bookID": 7,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 1,
+          "returnDate": "2022-10-25"
+        }
+      ],
+      "totalPrice": 20,
+      "timestamp": "2021-05-05T05:53:13.376Z"
+    },
+    {
+      "id": 33,
+      "customerId": 13,
+      "books": [
+        {
+          "bookID": 5,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 2,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 9,
+          "returnDate": "2022-10-01"
+        }
+      ],
+      "totalPrice": 31,
+      "timestamp": "2021-05-04T11:35:13.308Z"
+    },
+    {
+      "id": 34,
+      "customerId": 7,
+      "books": [
+        {
+          "bookID": 16,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 10,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 13,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 9,
+          "returnDate": "2022-09-12"
+        }
+      ],
+      "totalPrice": 36,
+      "timestamp": "2021-05-04T18:20:25.648Z"
+    },
+    {
+      "id": 35,
+      "customerId": 15,
+      "books": [
+        {
+          "bookID": 8,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 4,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 9,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 6,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 9,
+          "returnDate": "2022-10-12"
+        }
+      ],
+      "totalPrice": 25,
+      "timestamp": "2021-05-05T06:29:35.192Z"
+    },
+    {
+      "id": 36,
+      "customerId": 16,
+      "books": [
+        {
+          "bookID": 6,
+          "returnDate": "2022-10-25"
+        }
+      ],
+      "totalPrice": 48,
+      "timestamp": "2021-05-05T08:49:22.732Z"
+    },
+    {
+      "id": 37,
+      "customerId": 13,
+      "books": [
+        {
+          "bookID": 3,
+          "returnDate": "2022-10-12"
+        }
+      ],
+      "totalPrice": 45,
+      "timestamp": "2021-05-05T01:39:28.795Z"
+    },
+    {
+      "id": 38,
+      "customerId": 1,
+      "books": [
+        {
+          "bookID": 15,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 6,
+          "returnDate": "2022-10-01"
+        }
+      ],
+      "totalPrice": 28,
+      "timestamp": "2021-05-04T12:15:47.880Z"
+    },
+    {
+      "id": 39,
+      "customerId": 2,
+      "books": [
+        {
+          "bookID": 5,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 16,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 12,
+          "returnDate": "2022-10-12"
+        }
+      ],
+      "totalPrice": 45,
+      "timestamp": "2021-05-04T21:32:28.547Z"
+    },
+    {
+      "id": 40,
+      "customerId": 17,
+      "books": [
+        {
+          "bookID": 3,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 7,
+          "returnDate": "2022-10-25"
+        }
+      ],
+      "totalPrice": 27,
+      "timestamp": "2021-05-04T20:53:40.979Z"
+    },
+    {
+      "id": 41,
+      "customerId": 1,
+      "books": [
+        {
+          "bookID": 14,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 8,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 2,
+          "returnDate": "2022-10-25"
+        },
+        {
+          "bookID": 7,
+          "returnDate": "2022-09-12"
+        }
+      ],
+      "totalPrice": 24,
+      "timestamp": "2021-05-04T22:07:55.476Z"
+    },
+    {
+      "id": 42,
+      "customerId": 18,
+      "books": [
+        {
+          "bookID": 10,
+          "returnDate": "2022-09-12"
+        }
+      ],
+      "totalPrice": 22,
+      "timestamp": "2021-05-04T15:16:06.546Z"
+    },
+    {
+      "id": 43,
+      "customerId": 6,
+      "books": [
+        {
+          "bookID": 12,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 9,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 8,
+          "returnDate": "2022-10-25"
+        },
+        {
+          "bookID": 16,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 5,
+          "returnDate": "2022-10-01"
+        }
+      ],
+      "totalPrice": 50,
+      "timestamp": "2021-05-05T05:22:56.521Z"
+    },
+    {
+      "id": 44,
+      "customerId": 4,
+      "books": [
+        {
+          "bookID": 7,
+          "returnDate": "2022-10-25"
+        },
+        {
+          "bookID": 13,
+          "returnDate": "2022-09-19"
+        }
+      ],
+      "totalPrice": 14,
+      "timestamp": "2021-05-05T06:18:43.789Z"
+    },
+    {
+      "id": 45,
+      "customerId": 17,
+      "books": [
+        {
+          "bookID": 12,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 4,
+          "returnDate": "2022-10-12"
+        }
+      ],
+      "totalPrice": 35,
+      "timestamp": "2021-05-05T06:51:53.268Z"
+    },
+    {
+      "id": 46,
+      "customerId": 11,
+      "books": [
+        {
+          "bookID": 1,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 3,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 12,
+          "returnDate": "2022-09-12"
+        }
+      ],
+      "totalPrice": 29,
+      "timestamp": "2021-05-05T07:52:54.038Z"
+    },
+    {
+      "id": 47,
+      "customerId": 13,
+      "books": [
+        {
+          "bookID": 5,
+          "returnDate": "2022-09-19"
+        },
+        {
+          "bookID": 10,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 9,
+          "returnDate": "2022-10-12"
+        },
+        {
+          "bookID": 5,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 11,
+          "returnDate": "2022-09-12"
+        }
+      ],
+      "totalPrice": 48,
+      "timestamp": "2021-05-04T19:38:16.307Z"
+    },
+    {
+      "id": 48,
+      "customerId": 1,
+      "books": [
+        {
+          "bookID": 5,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 8,
+          "returnDate": "2022-09-12"
+        },
+        {
+          "bookID": 15,
+          "returnDate": "2022-10-25"
+        },
+        {
+          "bookID": 14,
+          "returnDate": "2022-09-19"
+        }
+      ],
+      "totalPrice": 33,
+      "timestamp": "2021-05-04T16:14:33.374Z"
+    },
+    {
+      "id": 49,
+      "customerId": 15,
+      "books": [
+        {
+          "bookID": 15,
+          "returnDate": "2022-10-25"
+        },
+        {
+          "bookID": 10,
+          "returnDate": "2022-10-25"
+        },
+        {
+          "bookID": 12,
+          "returnDate": "2022-10-01"
+        },
+        {
+          "bookID": 3,
+          "returnDate": "2022-09-19"
+        }
+      ],
+      "totalPrice": 37,
+      "timestamp": "2021-05-04T22:07:21.890Z"
+    }
+  ]
+}
