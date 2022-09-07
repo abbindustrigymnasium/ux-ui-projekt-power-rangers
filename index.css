@@ -1,7 +1,7 @@
 body {
     /* background-image: url(https://h24-original.s3.amazonaws.com/229042/24635709-BdgEE.jpg);
       background-size: cover; */
-    background-color: #eddefc;
+    background-color: #CCD1E4;
     z-index: 5;
 }
 
@@ -41,19 +41,19 @@ body {
 .recbook {
     font-size: xx-large;
     text-align: center;
-    color: rgb(68, 255, 0);
+    color: rgb(0, 0, 0);
 }
 
 .bookview {
     display: flex;
-    color: rgb(242, 255, 0);
+    color: #15133C;
     height: 400px;
     width: 70vw;
     margin-left: 15vw;
     margin-bottom: 50px;
     align-self: center;
     z-index: 10;
-    background-color: rgba(71, 71, 71, 0.5)
+    background-color: #15133C
 }
 
 .parties {
@@ -72,7 +72,7 @@ body {
 }
 
 #book1 {
-    background-color: gray;
+    background-color: #205375;
     height: 250px;
     width: 20%;
     margin-top: 75px;
