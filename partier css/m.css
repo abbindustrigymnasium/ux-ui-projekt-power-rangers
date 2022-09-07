@@ -1,0 +1,67 @@
+body {
+    /* background-image: url(https://h24-original.s3.amazonaws.com/229042/24635709-BdgEE.jpg);
+      background-size: cover; */
+    background-color: #CCD1E4;
+    z-index: 5;
+}
+
+.header {
+    height: 60px;
+    width: 90vw;
+    background-color: rgb(156, 154, 154);
+    margin-left: 5vw;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#headertext {
+    margin-left: 40px;
+    margin-top: 15px;
+    font-size: x-large;
+}
+
+#Search {
+    align-self: center;
+    width: 70%;
+    border-radius: 50px;
+    height: 40px;
+    margin-left: 10px;
+    background-color: rgba(187, 180, 180, 0.5);
+    color: black;
+    font-size: large;
+}
+
+.menubutton {
+    display: flex;
+    height: 20px;
+}
+
+.recbook {
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.bookview {
+    display: flex;
+    color: #15133C;
+    height: 400px;
+    width: 70vw;
+    margin-left: 15vw;
+    margin-bottom: 50px;
+    align-self: center;
+    z-index: 10;
+    background-color: #15133C
+}
+
+#book1 {
+    background-color: #205375;
+    height: 250px;
+    width: 20%;
+    margin-top: 75px;
+    margin-left: 10%;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
