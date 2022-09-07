@@ -5,14 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Power Rangers Library</title>
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
     <div class="header">
-        <p id="headertext">  Power Rangers <input id="Search"type="text" placeholder="Search..."></p>
-        
+        <p id="headertext">Power Rangers</p>
+        <input id="Search" type="text" placeholder="   Search...">
+        <button><img src="" alt="Menu"></button>
     </div>
     <div class="mid">
-        <p class="recbook">Recently Viewed</p>
+        <p class="recbook">Recently Viewed Books</p>
         <div class="bookview">
             <div id="book1">
 
@@ -26,14 +28,14 @@
         </div>
     </div>
     <div class="parties">
-        <Button class="party"></Button>
-        <Button class="party"></Button>
-        <Button class="party"></Button>
-        <Button class="party"></Button>
-        <Button class="party"></Button>
-        <Button class="party"></Button>
-        <Button class="party"></Button>
-        <Button class="party"></Button>
+        <Button class="party" id="mp"></Button>
+        <Button class="party" id="m"></Button>
+        <Button class="party" id="kd"></Button>
+        <Button class="party" id="l"></Button>
+        <Button class="party" id="c"></Button>
+        <Button class="party" id="s"></Button>
+        <Button class="party" id="sd"></Button>
+        <Button class="party" id="v"></Button>
     </div>
 
     
@@ -42,79 +44,3 @@
 <script>
 
 </script>
-<style>
-    body{
-      background-image: url(https://h24-original.s3.amazonaws.com/229042/24635709-BdgEE.jpg);
-      background-size: cover;
-      z-index: 5;
-    }
-    .header
-    {
-        height: 60px;
-        width: 90vw;
-        background-color: red;
-        margin-left: 5vw;
-        border-radius: 50px;
-    }
-    #headertext
-    {
-        margin-left: 40px;
-        font-size: x-large;
-    }
-    #Search
-    {
-        align-self: center;
-        width:80%;
-        border-radius: 50px;
-        height:40px;
-        margin-left: 10px;
-        margin-top: 8px;
-        background-color: rgba(86, 87, 87, 0.5);
-        color: rgb(255, 0, 0);
-    }
-    .recbook 
-    {
-        font-size: xx-large;
-        text-align: center;
-        color: rgb(68, 255, 0);
-    }
-    .bookview
-    {
-        display: flex;
-        color: rgb(242, 255, 0);
-        height: 400px;
-        width: 70vw;
-        margin-left: 15vw;
-        margin-bottom: 100px;
-        align-self: center;
-        z-index: 10;
-        background-color:rgba(71, 71, 71, 0.5)
-        
-        
-    }
-    .parties
-    { 
-        display: flex;
-        justify-content: space-evenly;
-        flex-wrap: wrap;
-    }
-    .party
-    {
-        height: 150px;
-        width: 250px;
-        margin-top: 50px;  
-        background-color: yellow;
-        justify-content: space-evenly;
-        flex-wrap: wrap;
-    }
-    #book1
-    {   
-        background-color:gray;
-        height: 250px;
-        width: 20%;
-        margin-top: 50px; 
-        margin-left: 10%;
-        flex-wrap: wrap;
-        flex-direction: row;
-    }
-</style>
