@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Power Rangers Library</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="h">
+        <div class="header">
+            <p id="headertext">Power Rangers</p>
+            <input id="Search" type="text" placeholder="   Search...">
+            <img src="/menu button.jpg" onClick="openNav()">
+            <div id="mySidenav" class="sidenav">
+                <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                <a class="pMenu" id="mp" href="./partier html/mp.html">Miljö Partiet</a>
+                <a class="pMenu" id="m" href="./partier html/m.html">Moderaterna</a>
+                <a class="pMenu" id="kd" href="./partier html/kd.html">Kristdemokraterna</a>
+                <a class="pMenu" id="l" href="./partier html/lib.html">Liberalerna</a>
+                <a class="pMenu" id="c" href="./partier html/c.html">Center Partiet</a>
+                <a class="pMenu" id="s" href="./partier html/s.html">Socialdemokraterna</a>
+                <a class="pMenu" id="sd" href="./partier html/sd.html">Sverigedemokraterna</a>
+                <a class="pMenu" id="v" href="./partier html/v.html">Vänster Partiet</a>
+            </div>
+        </div>
+        <div class="login">
+            <p class="logintext">Login</p>
+        </div>  
+    </div>
+   
+    
+    <div class="mid">
+        <p class="recbook">Recently Viewed Books</p>
+        <div class="bookview">
+            <div id="book1">
+
+            </div>
+            <div id="book1">
+            
+            </div>
+            <div id="book1">
+            
+            </div>
+        </div>
+    </div>
+    <div class="parties">
+        <a class="party" id="mp" href="./partier html/mp.html">Miljö Partiet</a>
+        <a class="party" id="m"  href="./partier html/m.html">Moderaterna</a>
+        <a class="party" id="kd" href="./partier html/kd.html">Kristdemokraterna</a>
+        <a class="party" id="l" href="./partier html/lib.html">Liberalerna</a>
+        <a class="party" id="c" href="./partier html/c.html">Center Partiet</a>
+        <a class="party" id="s" href="./partier html/s.html">Socialdemokraterna</a>
+        <a class="party" id="sd" href="./partier html/sd.html">Sverigedemokraterna</a>
+        <a class="party" id="v" href="./partier html/v.html">Vänster Partiet</a>
+                    <a class="party" id="v" href="/test.html">test</a>
+    </div>
+</body>
+</html>
+
+<script>
+    function openNav () {
+        document.getElementById("mySidenav").style.width = "250px"
+    }
+
+    function closeNav () {
+        document.getElementById("mySidenav").style.width = "0"
+    }
+</script>
+<style>
+    .header {
+    height: 60px;
+    width: 90vw;
+    background-color: rgb(156, 154, 154);
+    margin-left: 5vw;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    float: left;
+}
+
+.login{
+    float: right;
+    background-color: rgb(156, 154, 154);
+    height: 100%;
+    width: 75px;
+    border-radius: 50px;
+    text-align: center;
+    
+    
+}
+.h{
+    height: 60px;
+    padding: 20;
+}
+.logintext{
+    margin-top: 20px;
+}
+</style>
