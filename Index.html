@@ -11,17 +11,17 @@
     <div class="header">
         <p id="headertext">Power Rangers</p>
         <input id="Search" type="text" placeholder="   Search...">
-        <img src="/menu button.jpg" onClick="openNav()">
+        <img src="/menu button.png" class="MenuBtn" onClick="openNav()">
         <div id="mySidenav" class="sidenav">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-            <a class="pMenu" id="mp" href="./partier html/mp.html">Miljö Partiet</a>
-            <a class="pMenu" id="m" href="./partier html/m.html">Moderaterna</a>
-            <a class="pMenu" id="kd" href="./partier html/kd.html">Kristdemokraterna</a>
-            <a class="pMenu" id="l" href="./partier html/lib.html">Liberalerna</a>
-            <a class="pMenu" id="c" href="./partier html/c.html">Center Partiet</a>
-            <a class="pMenu" id="s" href="./partier html/s.html">Socialdemokraterna</a>
-            <a class="pMenu" id="sd" href="./partier html/sd.html">Sverigedemokraterna</a>
-            <a class="pMenu" id="v" href="./partier html/v.html">Vänster Partiet</a>
+            <a class="pMenu" id="mp" href="./partier html/mp.html">MP</a>
+            <a class="pMenu" id="m" href="./partier html/m.html">M</a>
+            <a class="pMenu" id="kd" href="./partier html/kd.html">KD</a>
+            <a class="pMenu" id="l" href="./partier html/lib.html">L</a>
+            <a class="pMenu" id="c" href="./partier html/c.html">C</a>
+            <a class="pMenu" id="s" href="./partier html/s.html">S</a>
+            <a class="pMenu" id="sd" href="./partier html/sd.html">SD</a>
+            <a class="pMenu" id="v" href="./partier html/v.html">V</a>
     </div>
     </div>
     <div class="mid">
@@ -54,9 +54,11 @@
 <script>
     function openNav () {
         document.getElementById("mySidenav").style.width = "250px"
+        document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
     }
 
     function closeNav () {
         document.getElementById("mySidenav").style.width = "0"
+        document.body.style.backgroundColor = "rgba(204, 209, 228, 1)";
     }
 </script>
