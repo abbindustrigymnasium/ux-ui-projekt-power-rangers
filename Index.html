@@ -11,7 +11,18 @@
     <div class="header">
         <p id="headertext">Power Rangers</p>
         <input id="Search" type="text" placeholder="   Search...">
-        <button><img src="" alt="Menu"></button>
+        <img src="/menu button.jpg" onClick="openNav()">
+        <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+            <a class="pMenu" id="mp" href="./partier html/mp.html">Miljö Partiet</a>
+            <a class="pMenu" id="m" href="./partier html/m.html">Moderaterna</a>
+            <a class="pMenu" id="kd" href="./partier html/kd.html">Kristdemokraterna</a>
+            <a class="pMenu" id="l" href="./partier html/lib.html">Liberalerna</a>
+            <a class="pMenu" id="c" href="./partier html/c.html">Center Partiet</a>
+            <a class="pMenu" id="s" href="./partier html/s.html">Socialdemokraterna</a>
+            <a class="pMenu" id="sd" href="./partier html/sd.html">Sverigedemokraterna</a>
+            <a class="pMenu" id="v" href="./partier html/v.html">Vänster Partiet</a>
+    </div>
     </div>
     <div class="mid">
         <p class="recbook">Recently Viewed Books</p>
@@ -39,3 +50,13 @@
     </div>
 </body>
 </html>
+
+<script>
+    function openNav () {
+        document.getElementById("mySidenav").style.width = "250px"
+    }
+
+    function closeNav () {
+        document.getElementById("mySidenav").style.width = "0"
+    }
+</script>
