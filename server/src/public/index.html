@@ -1,0 +1,122 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="./index.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+		<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"> 
+	</head>
+	<body onload="_updateHeader(sessionStorage.getItem('parti'))">
+		<div id="background">	
+			<div id="foreground">
+				<div id="header">
+					<div id="search">
+						<h1 id="h-title"></h1>
+						<form id="search_form" action="javascript:search()">
+							<input id="search_bar" type="search" required>
+							<i class="fa fa-search"></i>
+						</form>
+					</div>
+				</div>
+				<div id="parties">
+					<button id="c" class="parti" onclick="_updateHeader('c')">C</button>
+					<button id="kd" class="parti" onclick="_updateHeader('kd')">KD</button>
+					<button id="l" class="parti" onclick="_updateHeader('l')">L</button>
+					<button id="m" class="parti" onclick="_updateHeader('m')">M</button>
+					<button id="mp" class="parti" onclick="_updateHeader('mp')">MP</button>
+					<button id="s" class="parti" onclick="_updateHeader('s')">S</button>
+					<button id="sd" class="parti" onclick="_updateHeader('sd')">SD</button>
+					<button id="v" class="parti" onclick="_updateHeader('v')">V</button>
+					<button id="all" class="parti" onclick="_updateHeader('')">ALL</button>
+				</div>
+				<div id="book-list">
+					<h2 id="result"></h2>
+					<ul id="books">	
+					</ul>
+				</div>
+			</div>
+		</div>
+	</body>
+	<script>	
+		async function search() {
+			const text = document.getElementById("search_bar").value;
+			const parti = sessionStorage.getItem("parti");
+			let data = await fetch(`http://localhost:3000/books?search=${text}&parti="${parti}"`, {
+				method: "GET"
+			});
+			data = await data.json();
+			updateBooks(data)
+		}
+
+		function updateBooks(books) {
+			let result = document.getElementById("result");
+			let book_field = document.getElementById("books");
+			let length = books.length
+			result.innerHTML = `${length} result${length == 1 ? '' : 's'}`;
+			book_field.innerHTML = "";
+			for (book of books) {
+				book_field.innerHTML += `<li style="display:inline-block;">
+										<figure class="book">
+											<img src="${book.img}" width="455" height="600" alt="No image"></img> 
+											<figcaption class="book-info">
+												<h3 id="author"><strong>${book.author}</h3>
+												<h2 id="title"><strong>${book.title}</strong></h2>
+												<h3 id="ISBN"><span style="font-size:1.85ch;">ISBN:</span> ${book.ISBN}</h3>
+												<div class="divider"></div>
+												<h3 id="genre">${book.genre.join(", ")}</h3>
+												<div class="divider"></div>
+												<div id="p_info">
+													<h3 id="copies"><strong>Copies:</strong> ${book.copies}</h3>
+													<h3 id="price"><strong>Price:</strong> ${book.price}</h3>
+												</div>
+												<h3 id="lang"><strong>Language:</strong> ${book.lang}</h3>
+											</figcaption>
+										</figure>
+									</li>`
+			}
+		}
+		async function _updateHeader(selected_parti) {
+				let title = await document.getElementById("h-title");
+				let header = await document.getElementById("header");
+				switch (selected_parti) {
+					case "c":
+						title.innerHTML = "Centerpartiet"
+						header.style.backgroundColor = "#124838";
+						break;
+					case "kd":
+						title.innerHTML = "Kristdemokraterna";
+						header.style.backgroundColor = "#005EA1";
+						break;
+					case "l":
+						title.innerHTML = "Liberalerna";
+						header.style.backgroundColor = "#00619D";
+						break;
+					case "m":
+						title.innerHTML = "Moderaterna";
+						header.style.backgroundColor = "#91D3EC";
+						break;
+					case "mp":
+						title.innerHTML = "Miljöpartiet";
+						header.style.backgroundColor = "#0EA148";
+						break;
+					case "s":
+						title.innerHTML = "Socialdemokraterna";
+						header.style.backgroundColor = "#E71C34";
+						break;
+					case "sd":
+						title.innerHTML = "Sverigedemokraterna";
+						header.style.backgroundColor = "#70BFE5";
+						break;
+					case "v":
+						title.innerHTML = "Vänsterpartiet";
+						header.style.backgroundColor = "#E11B22";
+						break;
+					default:
+						title.innerHTML = "Bibliotek";
+						header.style.backgroundColor = "rgb(35,35,35)";
+						break;
+				}
+				sessionStorage.setItem("parti", selected_parti);
+				search();
+		}
+		</script>
+	</html>
